@@ -1,10 +1,10 @@
-### Hi there, I'm Darshan R <img src="https://github.com/paulusakomivn/paulusakomivn/blob/master/Assets/Hi.gif" width="22px">
+### Hi there, I'm Darshan R <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 
 ---
 
 
 
-<a href="https://api.daily.dev/get?r=dsr"><img src="https://github.com/paulusakomivn/paulusakomivn/blob/master/devcard.svg" width="300" align="right" alt="Darshan R's Dev Card"/></a>
+<a href="https://api.daily.dev/get?r=dsr"><img src="https://github.com/darshanr27/darshanr27/blob/master/devcard.svg" width="300" align="right" alt="Darshan R's Dev Card"/></a>
 
 <br />
 
@@ -21,16 +21,16 @@
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="Java" width="26px" src="https://github.com/paulusakomivn/paulusakomivn/blob/master/Assets/java.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/paulusakomivn/paulusakomivn/blob/master/Assets/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/paulusakomivn/paulusakomivn/blob/master/Assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/paulusakomivn/paulusakomivn/blob/master/Assets/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/paulusakomivn/paulusakomivn/blob/master/Assets/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/paulusakomivn/paulusakomivn/blob/master/Assets/sql.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/paulusakomivn/paulusakomivn/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/paulusakomivn/paulusakomivn/blob/master/Assets/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/paulusakomivn/paulusakomivn/blob/master/Assets/github.png" />
-<img align="left" alt="Figma" width="26px" src="https://github.com/paulusakomivn/paulusakomivn/blob/master/Assets/figma.png" />
+<img align="left" alt="Java" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/java.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/sql.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
+<img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
 
 <br />
 <br />
@@ -71,7 +71,7 @@
 <a href="https://www.darshanr.me" target="_blank">
   <img align="center" alt="Darshan R | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/paulusakomivn/" target="_blank">
+<a href="https://www.linkedin.com/in/darshanr27/" target="_blank">
   <img align="center" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/darshan_r_27" target="_blank">
@@ -96,7 +96,7 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/paulusakomivn/count.svg" />  
+  <img src="https://profile-counter.glitch.me/darshanr27/count.svg" />  
 </p>
    
   ---
